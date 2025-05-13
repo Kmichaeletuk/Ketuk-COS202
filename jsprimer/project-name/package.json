@@ -1,0 +1,19 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "ww3",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kmichaeletuk/Ketuk-COS202.git"
+  },
+  "author": "kufre etuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kmichaeletuk/Ketuk-COS202/issues"
+  },
+  "homepage": "https://github.com/Kmichaeletuk/Ketuk-COS202#readme"
+}

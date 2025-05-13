@@ -1,0 +1,19 @@
+{
+  "name": "ketuk-cos202",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kmichaeletuk/Ketuk-COS202.git"
+  },
+  "author": "kufre etuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kmichaeletuk/Ketuk-COS202/issues"
+  },
+  "homepage": "https://github.com/Kmichaeletuk/Ketuk-COS202#readme",
+  "description": ""
+}

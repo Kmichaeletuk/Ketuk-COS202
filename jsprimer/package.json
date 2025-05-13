@@ -1,0 +1,15 @@
+{
+  "name": "jsprimer",
+  "version": "1.0.0",
+  "description": "Why tf would you go to that island?",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "keywords": [
+    "pau"
+  ],
+  "author": "Kufre Etuk",
+  "license": "MIT"
+}
